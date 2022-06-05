@@ -695,7 +695,6 @@ header {
 .project-card {
 	display: block;
 	position: relative;
-	overflow: hidden;
 
 	transition: box-shadow var(--time) var(--function-animation);
 }
